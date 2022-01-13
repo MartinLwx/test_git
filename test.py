@@ -1,2 +1,2 @@
 def hk():
-    print("zhu")
+    print("not ok")
