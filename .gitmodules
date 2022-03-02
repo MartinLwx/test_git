@@ -1,3 +1,6 @@
 [submodule "cs61b"]
 	path = cs61b
 	url = git@github.com:MartinLwx/cs61b.git
+[submodule "UCB/ML-DL"]
+	path = UCB/ML-DL
+	url = git@github.com:MartinLwx/ML-DL.git
